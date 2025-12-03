@@ -18,7 +18,7 @@
 python run.py
 
 ## 注
-把data和data1数据文件解压后放到data/目录：
+把data和data2压缩包解压后放到data/目录：
 
 ### 1. 安装依赖
 ```bash
